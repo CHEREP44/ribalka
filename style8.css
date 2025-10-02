@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url("fon.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
+}
+.social-icons {
+  position: absolute;
+  margin-top: 2600px;
+  text-align: right;
+  padding: 20px 0;
+}
+.block {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+.section a img {
+ position: absolute;
+ width: 300px;
+}
+.img1 {
+  right: 200px;
+  top: 400px;
+}
+.img2 {
+  right: 200px;
+  top: 900px;
+}
+.photos {
+  position: absolute;
+  display: flex;
+  gap: 70px;
+  top: 1600px;
+  left: 160px;
+}
+.photos img {
+  width: 500px;
+  border-radius: 10px;
+}
+.title {
+  position: absolute;
+  left: 120px;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 20px;
+  color: white;
+}
+.text {
+  position: absolute;
+  margin-top: 350px;
+  font-size: 18px;
+  color: white;
+  left: 1200px;
+}
+.text-center {
+  position: absolute;
+  font-size: 20px;
+  color: white;
+  margin-top: 350px;
+  left: 570px;
+}
+.text-right {
+  position: absolute;
+  font-size: 20px;
+  color: white;
+  margin-top: 350px;
+  left: 0px;
+}
+.text-1 {
+  position: absolute;
+  font-size: 20px;
+  color: white;
+  top: 400px;
+  left: 650px;
+}
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 120px;
+  height: auto;
+}
+.text-2 {
+  position: absolute;
+  font-size: 20px;
+  color: white;
+  top: 900px;
+  left: 650px;
+}
